@@ -1,0 +1,15 @@
+# From Pixel To Vision — Ousmane Capinto CAMARA
+# pip install -r requirements.txt
+
+# Core image processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Additional algorithms & metrics (PSNR, SSIM, NL-Means…)
+scikit-image>=0.21.0
+
+# Notebook support (optional, if you run .ipynb alongside .py)
+# jupyter>=1.0.0
